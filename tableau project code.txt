@@ -1,0 +1,7 @@
+1. Connect to your HAR dataset.
+2. Drag the "Timestamp" field to the Columns shelf.
+3. Drag the "Sensor Data (X-axis)" field to the Rows shelf.
+4. Drag the "Sensor Data (Y-axis)" field to the Rows shelf.
+5. Drag the "Activity" field to the Color or Shape shelf to differentiate data points by activity.
+6. Customize the chart's appearance, labels, and tooltips as needed.
+7. Save the worksheet and include it in your dashboard.
